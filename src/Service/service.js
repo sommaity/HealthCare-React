@@ -1,2 +1,2 @@
-const url="http://localhost:8080";
+const url="http://healthcare-springboot-production.up.railway.app";
 export default url;

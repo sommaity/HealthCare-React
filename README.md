@@ -1,1 +1,1 @@
-# HealthCare-React
+# HealthCare-ReactJS
