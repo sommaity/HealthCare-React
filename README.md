@@ -1,11 +1,14 @@
 # [Healthcare Inventory Management System](https://healthcare.sumansom.site/)
 
-**1.	Project Overview:** 
+**1. Project Overview:** 
 The *`Healthcare Inventory Management System`* project aims to develop an efficient solution for managing medical supplies and equipment within healthcare facilities. This involves creating a backend using Spring Boot for inventory management and a user-friendly frontend using React.
+  
 **2.	Project Scope:**
 It focuses on building a system that enables healthcare providers to manage inventory levels, track usage, and order supplies. The backend will consist of Spring APIs, while React will be used for the frontend. The solution will optimize inventory management and enhance patient care.
+  
 **3.	Business Problem:**
 Inaccurate inventory management leads to stockouts and increased operational costs in healthcare facilities. This project addresses the need for a streamlined platform that simplifies inventory tracking, supply orders, and stock level monitoring.
+  
 **4.	Project Requirements:**
 - 4.1.	Functional Requirements:
   - User Story 1: User Registration and Authentication
