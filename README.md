@@ -68,3 +68,11 @@ Inaccurate inventory management leads to stockouts and increased operational cos
 ### [Spring Boot(Backend) Repository](https://github.com/sommaity/HealthCare-SpringBoot.git)
 
 ### [React.js(Frontend) Repository](https://github.com/sommaity/HealthCare-React)
+
+## UI Screenshots
+
+![home](https://github.com/sommaity/HealthCare-React/blob/521a0db969953ac7459bd82c3e7b359692d2bcad/Screen%20Shot/1(home).png)
+
+![registration](https://github.com/sommaity/HealthCare-React/blob/521a0db969953ac7459bd82c3e7b359692d2bcad/Screen%20Shot/2(registration).png)
+
+![order](https://github.com/sommaity/HealthCare-React/blob/521a0db969953ac7459bd82c3e7b359692d2bcad/Screen%20Shot/7(Order%201).png)
